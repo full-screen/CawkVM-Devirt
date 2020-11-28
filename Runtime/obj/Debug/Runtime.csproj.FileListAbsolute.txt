@@ -1,0 +1,11 @@
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Bin\Runtime.dll
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Bin\Runtime.pdb
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Runtime\obj\Debug\Runtime.csprojResolveAssemblyReference.cache
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Runtime\obj\Debug\Runtime.dll
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Runtime\obj\Debug\Runtime.pdb
+C:\Users\admin\Desktop\personal coding\RE\CawkVM Devirt\Bin\Runtime.dll
+C:\Users\admin\Desktop\personal coding\RE\CawkVM Devirt\Bin\Runtime.pdb
+C:\Users\admin\Desktop\personal coding\RE\CawkVM Devirt\Runtime\obj\Debug\Runtime.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\personal coding\RE\CawkVM Devirt\Runtime\obj\Debug\Runtime.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\personal coding\RE\CawkVM Devirt\Runtime\obj\Debug\Runtime.dll
+C:\Users\admin\Desktop\personal coding\RE\CawkVM Devirt\Runtime\obj\Debug\Runtime.pdb
